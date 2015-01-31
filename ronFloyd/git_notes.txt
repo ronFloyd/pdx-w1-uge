@@ -1,0 +1,9 @@
+Ron Floyd
+Code Fellows - Unix & Git
+January 30, 2015
+
+What I’ve learned about Git
+
+Git was somewhat of a mystery to me until recently. I had tried to learn it on my own, but all the tutorials I found seemed to assume some base level of knowledge that I did not have. The Treehouse course on Git started with basic history and a discussion of why Git is even necessary in the first place.
+
+Although I still feel shaky using Git, at least I have a general sense of what it is and how it works. Through this course, I learned how to initialize a repo, create and checkout a branch, add and commit changes, and merge changes back to master. As with Unix, I am confident that daily use of Git during the Code Fellows bootcamp will greatly expand my knowledge. Hopefully, using Git will become second nature. 

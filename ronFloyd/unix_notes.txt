@@ -1,0 +1,11 @@
+Ron Floyd
+Code Fellows - Unix & Git
+January 30, 2015
+
+What I’ve learned about Unix
+
+I’ve been a life-long Mac user, but I have very little command line experience. Before I took the Treehouse Unix course, I knew how to list the contents of a directory, change directories, and open files in a text editor. 
+
+The Treehouse course taught me how to create, rename, move, and delete files and directories. I also learned how to show hidden files (ls -a), and I learned how to read and modify permissions.
+
+I know my proficiency will expand the more I use the command line, and I am looking forward to learning more and improving my skill set with Code Fellows.
